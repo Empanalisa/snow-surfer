@@ -14,7 +14,7 @@
 
 ## About
 
-Snow Surfer is a side-scrolling snowboarding game. You start on a character select screen, then race down a snowy hill. Tilt your board to land mid-air flips for points, boost for speed, and avoid wiping out. Everything is built in **Unity 6** with **C#** and the 2D Universal Render Pipeline.
+Snow Surfer is a side-scrolling snowboarding game. You start on a character select screen, then race down a snowy hill. Tilt your board to land mid-air flips for points, boost for speed, and avoid wiping out. I built it in **Unity 6** with **C#** and the 2D Universal Render Pipeline.
 
 ## How to play
 
